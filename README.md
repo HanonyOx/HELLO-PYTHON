@@ -3,8 +3,11 @@
 ## STUDENT INFORMATION
 
 Name: Omeh Chukwuebuka Anthony
+
 Course: SEN201
+
 Matric Number: 24/15596
+
 Department: Computer Science
 
 ## Project Title
